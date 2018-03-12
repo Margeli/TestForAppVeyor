@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<config>
+	<app>
+		<title>Hallo Warld!</title>		
+	</app>
+	
+	
+  	<renderer>		
+		<vsync> false</vsync> 	
+		
+	</renderer>
+	
+	<audio>
+		
+		
+	</audio>
+	
+	<textures>
+		
+		
+	</textures>
+	
+	<window>
+		<fullscreen> 0 </fullscreen>
+		<borderless> 0 </borderless>
+		<resizable> 1 </resizable>
+		<fullscreen_window> 0 </fullscreen_window>
+		<width> 1024 </width> 
+		<height> 768 </height> 
+		<scale> 1 </scale> 
+		
+	</window>
+  
+</config>
